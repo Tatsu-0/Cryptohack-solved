@@ -3,7 +3,6 @@ Solved problems from Symmetric Cryptography.
 
 # Corresponding CryptoHack problems to .py files
 ## Catagory | Challenge | .py File <br>
-Symmetric Ciphers | How AES WorksKeyed Permutations | WIP <br>
 Symmetric Ciphers | How AES WorksResisting Bruteforce | WIP <br>
 Symmetric Ciphers | How AES WorksStructure of AES | WIP <br>
 Symmetric Ciphers | How AES WorksRound Keys | WIP <br>
