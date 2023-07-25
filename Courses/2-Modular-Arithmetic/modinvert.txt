@@ -1,0 +1,8 @@
+Same with this we dont need to write code
+Given Example: 7 * 8 = 56 ≡ 1 mod 11
+And the problem: 3 * d ≡ 1 mod 13
+We simply need to find a number that will multiply 3 into a number that will give a remainder of 1 with 13.
+So we can simply multiply 13 by a number that we can get with mulipltying 3 +1. 
+13 * 2 = 26 and we know we can muliplty 3 * 9 = 27 and that will give us our remainder.
+3 * 9 = 27 ≡ 1 mod 13
+The Answer = "9"
