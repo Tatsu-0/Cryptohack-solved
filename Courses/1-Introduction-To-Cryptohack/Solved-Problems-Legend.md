@@ -1,4 +1,4 @@
-# CryptoHack-Intro
+# CryptoHack - Introduction to Cryptohack
 Solved problems from Introduction to CryptoHack.
 
 # Corresponding CryptoHack problems to .py files
