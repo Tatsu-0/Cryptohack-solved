@@ -1,5 +1,5 @@
-# CryptoHack-ModularArithmetic
-Solved problems from Modular Arithmetic in CryptoHack.
+# CryptoHack - Modular Arithmetic
+Solved problems from Modular Arithmetic.
 
 # Corresponding CryptoHack problems to .py files
 ## Catagory | Challenge | .py File <br>
