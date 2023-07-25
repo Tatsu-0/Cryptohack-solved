@@ -6,7 +6,7 @@ Solved problems from Modular Arithmetic.
 1. General - Mathematics | Greatest Common Divisor | greatcomdiv.py <br>
 2. General - Mathematics | Extended GCD | extendgcd.py <br>
 3. General - Mathematics | Modular Arithmetic 1 | modarith1.py <br>
-4. General - Mathematics | Modular Arithmetic 2 |modarith2.txt <br>
+4. General - Mathematics | Modular Arithmetic 2 | modarith2.txt <br>
 5. General - Mathematics | Modular Inverting | modinvert.txt <br>
 6. Mathematics - Modular Math | Quadratic Residues | quadresid.py <br>
 7. Mathematics - Modular Math | Legendre Symbol | legendresym.py / legendresym_output.txt<br>
