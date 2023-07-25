@@ -1,5 +1,5 @@
 # CryptoHack - Symmetric Cryptography
-Solved problems from Symmetric Cryptography in CryptoHack
+Solved problems from Symmetric Cryptography.
 
 # Corresponding CryptoHack problems to .py files
 ## Catagory | Challenge | .py File <br>
