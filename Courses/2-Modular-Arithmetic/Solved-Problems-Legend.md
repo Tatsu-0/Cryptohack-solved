@@ -11,6 +11,6 @@ Solved problems from Modular Arithmetic to CryptoHack.
 6. Mathematics - Modular Math | Quadratic Residues | quadresid.py <br>
 7. Mathematics - Modular Math | Legendre Symbol | legendresym.py / legendresym_output.txt<br>
 8. Mathematics - Modular Math | Modular Square Root | modsquareroot.py / modsquareroot_output.txt<br>
-9. Mathematics - Modular Math | Chinese Remainder Theorem | wip <br>
-10. Mathematics - Brainteasers Part 1 | Adrien's Signs | wip <br>
-11. Mathematics - Brainteasers Part 1 | Modular Binomials | wip <br>
+9. Mathematics - Modular Math | Chinese Remainder Theorem | chinremtheom.py <br>
+10. Mathematics - Brainteasers Part 1 | Adrien's Signs | adriensign.py / adriensign_source.py / adriensign_output.txt <br>
+11. Mathematics - Brainteasers Part 1 | Modular Binomials | modularbi.py / data.txt <br>
