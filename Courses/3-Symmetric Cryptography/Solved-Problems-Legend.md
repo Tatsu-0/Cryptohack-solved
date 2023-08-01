@@ -6,8 +6,8 @@ Solved problems from Symmetric Cryptography.
 Symmetric Ciphers - How AES | WorksStructure of AES | matrix.py <br>
 Symmetric Ciphers - How AES | WorksRound Keys | add_round_key.py <br>
 Symmetric Ciphers - How AES | WorksConfusion through Substitution | sbox.py <br>
-Symmetric Ciphers - How AES | WorksDiffusion through Permutation | diffusion.py
-Symmetric Ciphers - How AES | WorksBringing It All Together | aes_decrypt.py
+Symmetric Ciphers - How AES | WorksDiffusion through Permutation | diffusion.py <br>
+Symmetric Ciphers - How AES | WorksBringing It All Together | aes_decrypt.py <br>
 Symmetric Ciphers - Symmetric Starter | Modes of Operation Starter | MoOstart.txt <br>
 Symmetric Ciphers - Symmetric Starter | Passwords as Keys | WIP <br>
 Symmetric Ciphers - Block Ciphers | ECB Oracle | WIP <br>
