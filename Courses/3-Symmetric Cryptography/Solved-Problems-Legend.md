@@ -9,8 +9,8 @@ Symmetric Ciphers - How AES | WorksConfusion through Substitution | sbox.py <br>
 Symmetric Ciphers - How AES | WorksDiffusion through Permutation | diffusion.py <br>
 Symmetric Ciphers - How AES | WorksBringing It All Together | aes_decrypt.py <br>
 Symmetric Ciphers - Symmetric Starter | Modes of Operation Starter | MoOstart.txt <br>
-Symmetric Ciphers - Symmetric Starter | Passwords as Keys | WIP <br>
-Symmetric Ciphers - Block Ciphers | ECB Oracle | WIP <br>
+Symmetric Ciphers - Symmetric Starter | Passwords as Keys | keys.py <br>
+Symmetric Ciphers - Block Ciphers | ECB Oracle | ECB_Oracle.py <br>
 Symmetric Ciphers - Block Ciphers | ECB CBC WTF | WIP <br>
 Symmetric Ciphers - Block Ciphers | Flipping Cookie | WIP <br>
 Symmetric Ciphers - Stream Ciphers | Symmetry | WIP <br>
