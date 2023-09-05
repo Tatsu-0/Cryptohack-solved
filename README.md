@@ -6,5 +6,5 @@ Solved problems in courses from https://cryptohack.org/ <br>
 1. Introduction To Cryptohack (DONE) <br>
 2. Modular Arithmetic (DONE)<br>
 3. Symmetric Cryptography (DONE) <br>
-4. Public-Key Cryptography (WIP) <br>
+4. Public-Key Cryptography (DONE) <br>
 5. Elliptic Curves (WIP) <br>
