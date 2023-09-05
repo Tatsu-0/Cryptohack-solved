@@ -28,7 +28,7 @@ p = 16007670376277647657
 g = 2
 A = 3480984767542299599
 B = 4799319123249983925
-a = 3512837750098271107
+a = 3512837750098271107 #https://www.alpertron.com.ar/DILOG.HTM
 
 shared_secret = pow(B, a, p)
 iv = 'b44a83e7fccf7067a4fb2e0c4aec9bdd'
